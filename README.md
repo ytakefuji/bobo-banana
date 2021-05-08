@@ -6,6 +6,7 @@ of 9 pieces(2x2, 1x2, 2x1, 1x1).
 The original source codes are at:
 http://github.com.https.443.262d333a6b.a.proxy1.ipv6.xiangtan.gov.cn/Recursing/SlidingPuzzleSolver.git
 
+
 klotski.py was modified for bobo banana game:
 4x5(horizontal x vertical) bobo banana puzzle 
 vertical rectangle (2 pieces):up-down:2-3
