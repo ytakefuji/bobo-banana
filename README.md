@@ -3,10 +3,17 @@
 <pre>
 Bobo banana is one of Klontski games. The game is composed 
 of 9 pieces(2x2, 1x2, 2x1, 1x1).
+The goal is to slide monkey (2x2) to banana.
+</pre>
+
+# expand bobo.tar
+$ tar xvf bobo.tar
+<pre>
 The original source codes are at:
+</pre>
 http://github.com.https.443.262d333a6b.a.proxy1.ipv6.xiangtan.gov.cn/Recursing/SlidingPuzzleSolver.git
 
-
+<pre>
 klotski.py was modified for bobo banana game:
 4x5(horizontal x vertical) bobo banana puzzle 
 vertical rectangle (2 pieces):up-down:2-3
@@ -22,7 +29,10 @@ bobo banana start:
                      4, 5, 3, 3),
 bobo banana goal:
         goals=(18, 19),
+</pre>
 
+# How to run the program
+<pre>
 $ python bobo.py
 Solved Red Donkey:
 --------
