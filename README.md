@@ -8,6 +8,10 @@ The goal is to slide monkey (2x2) to banana.
 
 # expand bobo.tar
 $ tar xvf bobo.tar
+
+bobo.tar has the following programs:
+
+board_utils.py, bobo.py, klotski.py, and sliding_game.py
 <pre>
 The original source codes are at:
 </pre>
