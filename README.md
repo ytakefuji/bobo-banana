@@ -18,7 +18,7 @@ klotski.py was modified for bobo banana game:
 4x5(horizontal x vertical) bobo banana puzzle 
 vertical rectangle (2 pieces):up-down:2-3
 horizontal rectangle (4 pieces):left-right:4-5
-square (2 pieces):1
+single square (2 pieces):1
 monkey 2x2 (1 piece):6
 
 bobo banana start:
