@@ -111,3 +111,27 @@ Solved Red Donkey:
 45
 Length:  45
 </pre>
+# How to play Klotski games by you
+<pre>
+$ sudo apt-get install pyqt5-dev-tools
+$ pip install klotski
+$ python -m klotski
+
+install it:
+git clone https://github.com/bluebird75/klotski.git
+
+add bobo in src/boards.kts file:
+
+<Bobo>
+@          @
+@          @
+@  ######  @
+@  #**aa#  @
+@  #**bb#  @
+@  #cd  #  @
+@  #eegh#  @
+@  #ffgh#  @
+@  ###--#  @
+@        ..@
+@        ..@
+</pre>
