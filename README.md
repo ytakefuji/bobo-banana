@@ -141,8 +141,8 @@ add bobo in src/boards.kts file:
 In the original problem, Monkey's initial position is in the lower left corner, but in the new problem, Monkey's initial state is in the upper left corner.
 <pre>
 Hints:
-In order to change the problem, you must modify klotski.py.
-start_board is represented as follows:
+In order to change the problem, you must modify klotski.py. Bobo banana board in the photo should be rotated-right by 90 degree.
+start_board (4x5) is represented as follows:
         start_board=(6, 6, 4, 5,
                      6, 6, 4, 5,
                      1, 1, 0, 0,
