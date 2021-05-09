@@ -18,7 +18,7 @@ The original source codes are at:
 http://github.com.https.443.262d333a6b.a.proxy1.ipv6.xiangtan.gov.cn/Recursing/SlidingPuzzleSolver.git
 
 <pre>
-klotski.py was modified for bobo banana game:
+Original klotski.py program was modified for bobo banana game:
 4x5(horizontal x vertical) bobo banana puzzle 
 vertical rectangle (2 pieces):up-down:2-3
 horizontal rectangle (4 pieces):left-right:4-5
