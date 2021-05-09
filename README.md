@@ -3,7 +3,7 @@
 <pre>
 Bobo banana is one of Klontski games. The game is composed 
 of 9 pieces(2x2, 1x2, 2x1, 1x1).
-The goal is to slide monkey (2x2) to banana.
+The goal is to move monkey (2x2) to banana by sliding pieces.
 </pre>
 
 # expand bobo.tar
