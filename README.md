@@ -1,7 +1,7 @@
 # bobo-banana
 <img src='bobobanana.png' width=300 height=300>
 <pre>
-Bobo banana is one of Klontski games. The game is composed 
+Bobo banana (4x5 board) is one of Klontski games. The game is composed 
 of 9 pieces(2x2, 1x2, 2x1, 1x1).
 The goal is to move monkey (2x2) to banana by sliding pieces.
 </pre>
