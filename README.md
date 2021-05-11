@@ -132,7 +132,7 @@ $ git clone https://github.com/bluebird75/klotski.git
 
 add bobo in src/boards.kts file:
 
-<Bobo>
+\<Bobo\>
 @          @
 @          @
 @  ######  @
