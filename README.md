@@ -153,7 +153,7 @@ initial state is in the upper left corner.
 <pre>
 Hints:
 In order to change the problem, you must modify klotski.py. 
-start_board (4x5) is represented as follows:
+original start_board (4x5) is represented as follows:
         start_board=(6, 6, 4, 5,
                      6, 6, 4, 5,
                      1, 1, 0, 0,
