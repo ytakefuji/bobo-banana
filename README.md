@@ -3,9 +3,11 @@
 <pre>
 Bobo banana (4x5 board) is one of Klontski games. The game is 
 composed of 9 pieces(2x2, 1x2, 2x1, 1x1).
-The goal is to move monkey (2x2) to banana by sliding pieces.
+The goal is to slide the pieces and move the monkey (2x2) 
+to the banana in the upper right corner.
 This repository shows how to create the target program using 
-the existing code and modifying it with minimum efforts.
+the existing codes and selecting the best code for
+modifying it with minimum efforts.
 
 Sliding games->Klotski puzzle->github site (python)->
 SlidingPuzzleSolver found
