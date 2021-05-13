@@ -10,7 +10,7 @@ the existing codes and selecting the best code for
 modifying it with minimum efforts.
 
 Sliding games->Klotski puzzle->github site (python)->
-SlidingPuzzleSolver found
+SlidingPuzzleSolver found -> modify the program
 
 
 </pre>
